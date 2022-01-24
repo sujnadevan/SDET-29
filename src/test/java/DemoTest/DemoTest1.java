@@ -7,5 +7,7 @@ public class DemoTest1 {
 public void demoTest1()
 {
 	System.out.println("Hi");
+	
+	System.out.println("User2 first commit");
 }
 }
