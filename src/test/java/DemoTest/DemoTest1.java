@@ -16,9 +16,6 @@ public void demoTest1()
 	System.out.println("User1 thrid commit ---> conflit resolved");
 
 	System.out.println("User2 second commit --> create conflit");
-	
-	
-	System.out.println("User1 in branch");
 
 }
 }
